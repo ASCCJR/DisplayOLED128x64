@@ -1,3 +1,7 @@
+/**
+ * https://github.com/ASCCJR
+ */
+
 #include "display.h"
 #include "configura_geral.h"
 #include "ssd1306_i2c.h" // Inclui diretamente a API de baixo nível
